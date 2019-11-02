@@ -1,0 +1,6 @@
+name: "Murderreal"
+navbar:
+  title: "Murderreal"
+  left:
+    - text: "Home"
+      href: index.html
